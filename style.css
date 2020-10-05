@@ -1,0 +1,104 @@
+#beef {
+
+	background-color: #D74A3A;
+	border:1px;
+	padding:1px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	color:white;
+	width:90%;
+	height:150px;
+
+}
+
+#chicken {
+
+	background-color: #0F709C;
+	border:1px;
+	padding:1px;
+	margin-top: 10px;
+	color:white;
+	margin-right: auto;
+	margin-left: auto;
+	width:90%;
+	height:150px;
+}
+
+#fish {
+
+	background-color: #30A668;
+	border:1px;
+	padding:1px;
+	margin-top: 10px;
+	color:white;
+	margin-right: auto;
+	margin-left: auto;
+	width:90%;
+	height:150px;
+}
+
+
+.container {
+
+	position:relative;
+
+}
+
+.sectionheadbeef{
+
+	position: absolute;
+    top: 0;
+    right: 0;
+    border:1px solid white;
+    padding: 1px;
+    width:40%;
+    color: white;
+    margin-left: 10px;
+    margin-right:auto;
+    font-size: 125%;
+    text-align: center;
+    background-color: #761D1D;
+
+}
+
+
+.sectionheadchicken{
+
+	position: absolute;
+    top: 0;
+    right: 0;
+    border:1px solid white;
+    padding: 1px;
+    width:40%;
+    color: white;
+    margin-left: 10px;
+    margin-right:auto;
+    font-size: 125%;
+    text-align: center;
+    background-color: #1D4D76;
+
+}
+
+
+.sectionheadfish{
+
+	position: absolute;
+    top: 0;
+    right: 0;
+    border:1px solid white;
+    padding: 1px;
+    width:40%;
+    color: white;
+    margin-left: 10px;
+    margin-right:auto;
+    font-size: 125%;
+    text-align: center;
+    background-color: #0C420A;
+
+}
+
+#test{
+position: relative;
+top:30px;
+}
